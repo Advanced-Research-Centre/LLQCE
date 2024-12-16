@@ -1,4 +1,4 @@
-# LLQCE
+# Qurator
 Library Learning in Quantum Computer Engineering
 
 ![quantum library](image.png)
